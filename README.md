@@ -4,7 +4,7 @@
 
 ![license](https://img.shields.io/github/license/kporten/blueprint?style=for-the-badge)
 ![tag](https://img.shields.io/github/v/tag/kporten/blueprint?style=for-the-badge)
-![last-commit](https://img.shields.io/github/last-commit/kporten/blueprint?style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/movoid12/blueprint?style=for-the-badge)
 
 This monorepo blueprint allows you to kickstart your projects with [Bun](https://bun.sh), [Turborepo](https://turbo.build/repo), [Biome](https://biomejs.dev) and [TypeScript](https://www.typescriptlang.org).
 
@@ -44,3 +44,7 @@ Take advantage of the pre-configured setup and packages to accelerate your devel
 4. Start the development servers: `turbo dev`
 
 :tada: Now you can get up and running with your ideas!
+
+## Credits and License:
+
+[Kevin Porten](https://github.com/kporten)
