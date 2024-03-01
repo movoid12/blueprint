@@ -23,6 +23,12 @@ Take advantage of the pre-configured setup and packages to accelerate your devel
 - [Clerk](https://clerk.com) for user auth
 - [Sentry](https://sentry.io) for error monitoring
 
+## Apps
+
+### Vite Template
+
+🚀 [apps/vite-template](./apps/vite-template)
+
 ### TypeScript Configuration
 
 :package: [packages/typescript-config](./packages/typescript-config)
